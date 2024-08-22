@@ -1,0 +1,79 @@
+
+.logousd {
+    width: 75px;
+    height: 75px;
+}
+
+.barraPesquisa{
+border: 3px solid #13953f;
+padding: 5px;
+width: 1600px;
+display: flex;
+align-items: center;
+margin:20px 30px;
+border-radius: 15px;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+
+    
+}
+
+.barraPesquisa input{
+    width: 1600px;
+    border: none;
+}
+
+.config {
+    width: 50px;
+    height: 50px;
+
+}
+
+.container ion-icon {
+    width: 35px;
+    height: 35px;
+    margin-right: 35px;
+    
+    color: #13953f;
+}
+
+.gear{
+    height: 50px;
+    width: 50px;
+}
+
+.profile{
+    height: 45px;
+    margin-top: 17px;
+    margin: 0 27px;
+}
+
+.btnAlocarEquip{
+    width: 250px;
+    height: 50px;
+    margin: 0 130px;
+    background-color: #13953f;
+    border-radius: 25px;
+}
+
+.btnAlocarEquip text{
+   margin: 20px;
+}
+.btnAlocarTxt{
+    padding: 16px 0 0 32px;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.botoes{
+    display: flex;
+    justify-content: space-evenly;
+}
+p{
+    align-self: center;
+}
