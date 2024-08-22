@@ -99,7 +99,7 @@ gap: 3px;
 opacity: 0px;
 color: #13953f;
 margin-left: 48px;
-font-family: "palanquin dark";
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 
@@ -128,4 +128,7 @@ width: 140px;
 margin-left: 10px;
 margin-top: 50px;
 margin-right: 150px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: white;
 }
+
