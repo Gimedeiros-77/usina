@@ -54,7 +54,7 @@ border-radius: 15px;
     margin: 0 27px;
 }
 
-.btnAlocarEquip{
+.botao{
     width: 260px;
     height: 50px;
     margin: 0 130px;
@@ -62,19 +62,12 @@ border-radius: 15px;
     border-radius: 25px;
 }
 
-.alocar{
-    padding: 16px 0 0 32px;
-    color:white;
-    font-family:'Courier New', Courier, monospace;
-    font-size: 20px;
-}
+
 .botoes{
     display: flex;
     justify-content: space-evenly;
 }
-p{
-    align-self: center;
-}
+
 
 .container2{
     border: 3px solid #13953f;
