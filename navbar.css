@@ -15,7 +15,14 @@ border-radius: 15px;
 
 }
 
+.container{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
 
+    
+}
 
 .barraPesquisa input{
     width: 1600px;
