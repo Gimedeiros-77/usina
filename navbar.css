@@ -114,7 +114,7 @@
 }
 
 /* Estilos para o botão de cancelar */
-button.cancelar {
+.bt1 {
     border: 3px solid #13953f;
     padding: 0 20px; /* Ajustado para ter padding horizontal */
     height: 60px;
@@ -132,7 +132,7 @@ button.cancelar {
 }
 
 /* Estilos para o botão de adicionar */
-button.adicionar {
+.bt2 {
     border: 3px solid #13953f;
     padding: 0 20px; /* Ajustado para ter padding horizontal */
     height: 60px;
