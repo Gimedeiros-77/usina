@@ -65,6 +65,10 @@ border-radius: 15px;
 
 .botoes p{
     color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .botoes{
