@@ -55,12 +55,15 @@
     background-color: #13953f;
     border-radius: 25px;
     padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .botoes p {
     color: white;
     font-size: larger;
-
 }
 
 .botoes {
@@ -110,28 +113,9 @@
     margin-top: 57px;
 }
 
-/* Estilos para o botão de cancelar */
-.bt2 {
+button {
     border: 3px solid #13953f;
-    padding: 0 20px; /* Ajustado para ter padding horizontal */
-    height: 60px;
-    border-radius: 25px;
-    width: 140px;
-    margin-left: 1px;
-    margin-top: 50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: white;
-    color: #13953f;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-/* Estilos para o botão de adicionar */
-.bt1 {
-    border: 3px solid #13953f;
-    padding: 0 20px; /* Ajustado para ter padding horizontal */
+    padding-left: 30px;
     height: 60px;
     border-radius: 25px;
     width: 140px;
