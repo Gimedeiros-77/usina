@@ -65,7 +65,7 @@ border-radius: 15px;
 .alocar{
     padding: 16px 0 0 32px;
     color:white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+    font-family:'Courier New', Courier, monospace;
     font-size: 20px;
 }
 .botoes{
@@ -133,7 +133,7 @@ button{
 .cadastro{
     padding: 16px 0 0 32px;
     color:white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     font-size: 20px;
 }
 
@@ -141,7 +141,7 @@ button{
 .gerar_relatorio{
     padding: 16px 0 0 32px;
     color:white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     font-size: 20px;
 }
 
