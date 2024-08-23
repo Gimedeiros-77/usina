@@ -118,10 +118,10 @@
     margin-top: 57px;
 }
 
-/* Estilos para o botão de cancelar */
+
 .bt1 {
     border: 3px solid #13953f;
-    padding: 0 20px; /* Ajustado para ter padding horizontal */
+    padding: 0 20px;
     height: 60px;
     border-radius: 25px;
     width: 140px;
@@ -137,10 +137,10 @@
     font-size: large;
 }
 
-/* Estilos para o botão de adicionar */
+
 .bt2 {
     border: 3px solid #13953f;
-    padding: 0 20px; /* Ajustado para ter padding horizontal */
+    padding: 0 20px; 
     height: 60px;
     border-radius: 25px;
     width: 140px;
