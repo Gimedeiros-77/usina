@@ -85,7 +85,7 @@
     display: inline-flex;
     width: 900px;
     margin-top: 60px;
-    background-color: rgba(128, 128, 128, 0.336);
+    background-color: #EAEAEA;
 }
 
 .text {
@@ -98,6 +98,7 @@
     color: #13953f;
     margin-left: 48px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
 }
 
 .entrada {
@@ -108,6 +109,7 @@
     width: 150px;
     margin-left: 20px;
     margin-bottom: 60px;
+    background-color: #d9d9d9;
 }
 
 .lixeira {
@@ -132,6 +134,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    font-size: large;
 }
 
 /* Estilos para o botão de adicionar */
@@ -144,10 +147,11 @@
     margin-left: 1px;
     margin-top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: white;
-    color: #13953f;
+    background-color: #13953f;;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
+    font-size: larger;
 }
