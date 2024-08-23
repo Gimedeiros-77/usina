@@ -4,6 +4,7 @@
 }
 
 .barraPesquisa {
+    background-color: #EAEAEA;
     border: 3px solid #13953f;
     padding: 5px;
     width: 1600px;
@@ -21,6 +22,7 @@
 }
 
 .barraPesquisa input {
+    background-color: #EAEAEA;
     width: 1600px;
     border: none;
 }
