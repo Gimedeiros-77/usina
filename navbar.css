@@ -1,30 +1,26 @@
-
 .logousd {
     width: 75px;
     height: 75px;
 }
 
-.barraPesquisa{
-border: 3px solid #13953f;
-padding: 5px;
-width: 1600px;
-display: flex;
-align-items: center;
-margin:20px 30px;
-border-radius: 15px;
-
+.barraPesquisa {
+    border: 3px solid #13953f;
+    padding: 5px;
+    width: 1600px;
+    display: flex;
+    align-items: center;
+    margin: 20px 30px;
+    border-radius: 15px;
 }
 
-.container{
+.container {
     display: flex;
     align-items: center;
     padding: 10px;
     width: 100%;
-
-    
 }
 
-.barraPesquisa input{
+.barraPesquisa input {
     width: 1600px;
     border: none;
 }
@@ -32,29 +28,27 @@ border-radius: 15px;
 .config {
     width: 50px;
     height: 50px;
-
 }
 
 .container ion-icon {
     width: 35px;
     height: 35px;
     margin-right: 35px;
-    
     color: #13953f;
 }
 
-.gear{
+.gear {
     height: 50px;
     width: 50px;
 }
 
-.profile{
+.profile {
     height: 45px;
     margin-top: 17px;
     margin: 0 27px;
 }
 
-.botao{
+.botao {
     width: 260px;
     height: 50px;
     margin: 0 130px;
@@ -63,23 +57,21 @@ border-radius: 15px;
     padding: 15px;
 }
 
-.botoes p{
+.botoes p {
     color: white;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    font-size: larger;
+
 }
 
-.botoes{
+.botoes {
     display: flex;
     justify-content: space-evenly;
     text-align: center;
-    
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
 }
 
-
-.container2{
+.container2 {
     border: 3px solid #13953f;
     padding: 30px;
     margin-left: 300px;
@@ -88,41 +80,40 @@ border-radius: 15px;
     display: inline-flex;
     width: 900px;
     margin-top: 60px;
-    
 }
 
-.text{
-width: 41px;
-height: 25px;
-top: -861px;
-left: -254px;
-gap: 3px;
-opacity: 0px;
-color: #13953f;
-margin-left: 48px;
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+.text {
+    width: 41px;
+    height: 25px;
+    top: -861px;
+    left: -254px;
+    gap: 3px;
+    opacity: 0px;
+    color: #13953f;
+    margin-left: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
-.entrada{
-border: 3px solid #13953f;
-padding-left: 30px;
-height: 60px;
-border-radius: 25px;
-width: 150px;
-margin-left: 20px;
-margin-bottom: 60px;
+.entrada {
+    border: 3px solid #13953f;
+    padding-left: 30px;
+    height: 60px;
+    border-radius: 25px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 60px;
 }
 
-.lixeira{
+.lixeira {
     height: 50px;
     margin: auto;
     margin-top: 57px;
 }
 
-button{
+/* Estilos para o botão de cancelar */
+.bt2 {
     border: 3px solid #13953f;
-    padding-left: 30px;
+    padding: 0 20px; /* Ajustado para ter padding horizontal */
     height: 60px;
     border-radius: 25px;
     width: 140px;
@@ -130,17 +121,27 @@ button{
     margin-top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: white;
-    color: #13953f; 
+    color: #13953f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
+/* Estilos para o botão de adicionar */
+.bt1 {
+    border: 3px solid #13953f;
+    padding: 0 20px; /* Ajustado para ter padding horizontal */
+    height: 60px;
+    border-radius: 25px;
+    width: 140px;
+    margin-left: 1px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: #13953f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
