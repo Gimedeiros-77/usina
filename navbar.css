@@ -1,30 +1,28 @@
-
 .logousd {
     width: 75px;
     height: 75px;
 }
 
-.barraPesquisa{
-border: 3px solid #13953f;
-padding: 5px;
-width: 1600px;
-display: flex;
-align-items: center;
-margin:20px 30px;
-border-radius: 15px;
-
+.barraPesquisa {
+    background-color: #EAEAEA;
+    border: 3px solid #13953f;
+    padding: 5px;
+    width: 1600px;
+    display: flex;
+    align-items: center;
+    margin: 20px 30px;
+    border-radius: 15px;
 }
 
-.container{
+.container {
     display: flex;
     align-items: center;
     padding: 10px;
     width: 100%;
-
-    
 }
 
-.barraPesquisa input{
+.barraPesquisa input {
+    background-color: #EAEAEA;
     width: 1600px;
     border: none;
 }
@@ -32,48 +30,128 @@ border-radius: 15px;
 .config {
     width: 50px;
     height: 50px;
-
 }
 
 .container ion-icon {
     width: 35px;
     height: 35px;
     margin-right: 35px;
-    
     color: #13953f;
 }
 
-.gear{
+.gear {
     height: 50px;
     width: 50px;
 }
 
-.profile{
+.profile {
     height: 45px;
     margin-top: 17px;
     margin: 0 27px;
 }
 
-.btnAlocarEquip{
-    width: 250px;
+.botao {
+    width: 260px;
     height: 50px;
     margin: 0 130px;
     background-color: #13953f;
     border-radius: 25px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
-.btnAlocarEquip text{
-   margin: 20px;
+.botoes p {
+    color: white;
+    font-size: larger;
 }
-.btnAlocarTxt{
-    padding: 16px 0 0 32px;
-    color:white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-.botoes{
+
+.botoes {
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
 }
-p{
-    align-self: center;
+
+.container2 {
+    border: 3px solid #13953f;
+    padding: 30px;
+    margin-left: 300px;
+    height: 150px;
+    border-radius: 25px;
+    display: inline-flex;
+    width: 900px;
+    margin-top: 60px;
+    background-color: #EAEAEA;
+}
+
+.text {
+    width: 41px;
+    height: 25px;
+    top: -861px;
+    left: -254px;
+    gap: 3px;
+    opacity: 0px;
+    color: #13953f;
+    margin-left: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+.entrada {
+    border: 3px solid #13953f;
+    padding-left: 30px;
+    height: 60px;
+    border-radius: 25px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    background-color: #ffffff;
+}
+
+.lixeira {
+    height: 50px;
+    margin: auto;
+    margin-top: 57px;
+}
+
+
+.bt1 {
+    border: 3px solid #13953f;
+    padding: 0 20px;
+    height: 60px;
+    border-radius: 25px;
+    width: 140px;
+    margin-left: 1px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: #13953f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+}
+
+
+.bt2 {
+    border: 3px solid #13953f;
+    padding: 0 20px; 
+    height: 60px;
+    border-radius: 25px;
+    width: 140px;
+    margin-left: 1px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #13953f;;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
 }
