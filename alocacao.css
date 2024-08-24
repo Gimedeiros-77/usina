@@ -131,5 +131,34 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
 }
-
-
+.pribotao{
+    width: 79px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid red;
+    background-color: #13953F;
+    color: white;
+}
+.segbotao{
+    width: 108px;
+    height: 40px;
+    background-color: white;
+    color: #13953F;
+    border-radius: 20px;
+    border: 2px solid #13953F;
+    font-weight: bolder;
+}
+.terbotao{
+    width: 187px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    background-color: #13953F;
+    border: 1px solid #13953F;
+}
+.linha3{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-left: 50%;
+}
