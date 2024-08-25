@@ -79,15 +79,13 @@
 .blocos {
     border: 3px solid #13953f;
     padding: 30px;
-    height: 137px;
+    height: 160px;
     border-radius: 25px;
-    display:flex;
-    flex-direction: column;
     width: 233px;
     margin-top: 60px;
     background-color: white;
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
     font-weight: bold;
     color: #13953f;
     
