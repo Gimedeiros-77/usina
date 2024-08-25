@@ -62,6 +62,9 @@
     justify-content: center;
     text-align: center;
 }
+.botao:hover{
+    background-color: yellowgreen;
+}
 
 .botoes p {
     color: white;
