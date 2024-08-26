@@ -165,3 +165,6 @@ p{
     margin: auto;
     margin-left: 50%;
 }
+.segbotao:hover{
+    background-color: rgb(231, 164, 164);
+}
