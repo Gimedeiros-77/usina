@@ -80,9 +80,10 @@
 .botoes {
     display: flex;
     justify-content: space-evenly;
-    text-align: center;
+    text-align:center;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 15px;
+    font-weight: bolder;
 }
 
 /*---------------TELA PRINCIPAL--------------*/
@@ -106,18 +107,18 @@ a{
 }
 .linha1{
     display: flex;
-    justify-content:space-around ;
+    justify-content:space-evenly ;
     width: 80%;
 }
 body{
     width: 100%;
-    align-items: center;
+
     display: flex;
     flex-direction: column;
 
 }
 .linha2{
     display: flex;
-    justify-content:space-around ;
+    justify-content:space-evenly ;
     width: 50%;
 }
