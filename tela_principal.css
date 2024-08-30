@@ -120,6 +120,8 @@ body{
 
     display: flex;
     flex-direction: column;
+    background-image:url("https://revistarpanews.com.br/wp-content/uploads/2023/06/Usina-Sao-Domingos.jpg");
+    background-size: cover;
 
 }
 .linha2{

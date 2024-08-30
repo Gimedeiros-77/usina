@@ -29,10 +29,12 @@ body{
 }
 
 
-.formLogin img{
+.logo{
     height: 69px;
     width: 69px;
     padding-top: 20px;
+    margin: auto;
+    display: flex;
 }
 
 .headerform{
@@ -50,4 +52,17 @@ button{
     font-family: 'Palanquin Dark';
     font-size: large;  
 }
+input{
+    border-radius: 20PX;
+    border: 3px solid #13953F;
+    width: 100%;
+}
 
+a{
+    text-decoration: none;
+    color: black;
+}
+.senha{
+    text-align:left;
+    margin-left: 20px;
+}
