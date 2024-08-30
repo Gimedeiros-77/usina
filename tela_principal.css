@@ -48,6 +48,10 @@
     width: 50px;
 }
 
+.dark{
+    background-color: none!important;
+}
+
 .profile {
     height: 45px;
     margin-top: 17px;
@@ -124,4 +128,18 @@ body{
     width: 50%;
     align-items: center;
     margin: auto;
+}
+/*modo dark*/
+.dark-mode {
+    background-color: #121212; 
+    color: #e0e0e0; 
+}
+
+.dark-mode .blocos {
+    background-color: #1e1e1e; 
+    color: #e0e0e0; 
+}
+
+.dark-mode .logousd img{
+    background-color: #121212;
 }

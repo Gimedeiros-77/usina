@@ -11,12 +11,19 @@
 </head>
 <body>
   <div class="container">
-    <a href="./tela_principal.html"><img src="imagens/Logo.jpg" alt="logo" class="logousd"></a>
+    <a href="./tela_principal.html"><img src="imagens/Logo_Vertical-removebg-preview.png" alt="logo" class="logousd"></a>
     <div class="barraPesquisa">
       <img src="imagens/icons8-search-24.png" alt="lupa">
       <input type="text" placeholder="Procurar equipamento...."/>     
     </div>
     <img src="imagens/gear.svg" class="gear">
+    <img src="imagens/icons8-first-quarter-50.svg" id="toggle-dark-mode"/>
+    <script>
+     document.getElementById('toggle-dark-mode').addEventListener('click', function() {
+         document.body.classList.toggle('dark-mode');
+     });
+     </script>
+     
     <img src="imagens/Vector (1).svg" class="profile"/>
 </div>
 <div class="botoes">
