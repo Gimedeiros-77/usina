@@ -48,6 +48,10 @@
     width: 50px;
 }
 
+.dark{
+    background-color: none!important;
+}
+
 .profile {
     height: 45px;
     margin-top: 17px;
