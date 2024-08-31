@@ -88,4 +88,5 @@ a:hover{
 }
  .btnEntrar:hover{
     cursor: pointer;
+    background-color: yellowgreen;
  }
