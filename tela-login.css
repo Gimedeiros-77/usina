@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@400;500;600;700&display=swap');
 :root{
     font-family: 'Palanquin Dark';
+    color: #13953F;
 }
 
 body{
@@ -55,14 +56,36 @@ button{
 input{
     border-radius: 20PX;
     border: 3px solid #13953F;
-    width: 100%;
+    width: 443px;
+    outline: none;
 }
 
 a{
     text-decoration: none;
-    color: black;
+    color: #13953F
 }
 .senha{
     text-align:left;
-    margin-left: 20px;
+    margin-bottom: 2px;
 }
+
+.form_input{
+    padding-bottom: 5px;
+}
+.enderecoDeEmail{
+    text-align:left;
+    margin-bottom: 2px;
+}
+.cadastrosenha{
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+a:hover{
+    cursor:pointer;
+}
+ .btnEntrar:hover{
+    cursor: pointer;
+ }
