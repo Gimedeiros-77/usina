@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@400;500;600;700&display=swap');
+:root{
+    font-family: 'Palanquin Dark';
+    color: #13953F;
+}
+
+body{
+    background-image: url(imagens/foto-usina.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+  
+}
+.formLogin {
+    width: fit-content;
+    height: fit-content;
+    background: rgba(255, 255, 255, 0.7);
+    border: 4px solid #13953F;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+
+.logo{
+    height: 69px;
+    width: 69px;
+    padding-top: 20px;
+    margin: auto;
+    display: flex;
+}
+
+.headerform{
+    margin: 212.5;
+}
+
+button{
+    color: white;
+    background-color: #13953F;
+    width: 441px ;
+    height: 50px;
+    margin:26.5px;
+    border: 1px;
+    border-radius: 15px;
+    font-family: 'Palanquin Dark';
+    font-size: large;  
+}
+input{
+    border-radius: 20PX;
+    border: 3px solid #13953F;
+    width: 443px;
+    outline: none;
+}
+
+a{
+    text-decoration: none;
+    color: #13953F
+}
+.senha{
+    text-align:left;
+    margin-bottom: 2px;
+}
+
+.form_input{
+    padding-bottom: 5px;
+}
+.enderecoDeEmail{
+    text-align:left;
+    margin-bottom: 2px;
+}
+.cadastrosenha{
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+a:hover{
+    cursor:pointer;
+}
+ .btnEntrar:hover{
+    cursor: pointer;
+ }
