@@ -85,4 +85,9 @@ a:hover{
 }
  .btnEntrar:hover{
     cursor: pointer;
+    border-bottom: 5px solid black;
+ }
+ .nome_sobrenome{
+    display: flex;
+    flex-direction: ;
  }
