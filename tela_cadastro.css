@@ -119,6 +119,9 @@ a:hover{
     margin: auto;
     display: flex;
  }
+ .inpemail::placeholder{
+    color: transparent;
+ }
  .text3{
     margin-right: 10px;
     margin-bottom: 1px;
@@ -157,5 +160,7 @@ a:hover{
     display: flex;
  }
  .inpemail:invalid{
-    background-color: rgb(255, 230, 230);
+    color: red;
+    
  }
+
