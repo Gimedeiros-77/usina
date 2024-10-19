@@ -29,6 +29,7 @@
     background-color: #EAEAEA;
     width: 1600px;
     border: none;
+    outline: none;
 }
 
 .config {
@@ -46,10 +47,6 @@
 .gear {
     height: 50px;
     width: 50px;
-}
-
-.dark{
-    background-color: none!important;
 }
 
 .profile {
